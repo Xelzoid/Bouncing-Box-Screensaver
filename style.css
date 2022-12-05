@@ -1,0 +1,12 @@
+#my_bouncing_box {
+  background-color: red; 
+  border-radius: 3px; 
+  position: absolute; 
+  left: 50%; 
+  top: 50%;
+  min-width: 100px; 
+  min-height: 100px; 
+  text-align: center; 
+  font-weight: bold; 
+  color: #999;
+}
